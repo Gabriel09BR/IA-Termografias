@@ -1,3 +1,5 @@
+# Description of Shape and Texture Features
+
 | **Attribute** | **Description** |
 |---|---|
 | **Color: MSE between the mask and the active region** | A measure of error between the colors of an RGB pattern of the decomposed and self-remodeled mask during execution, in relation to the active region of the image. This suggests a metric that calculates the mean squared error between the colors of these patterns in different regions of the image. |
